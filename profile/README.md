@@ -2,6 +2,6 @@
 
 Google Drive folder(members only): https://drive.google.com/drive/folders/1xYWiGWQyuXE_n9HEbg38uRNz2stQPUqS?usp=sharing
 
-## Lists
+# Related Studies/Projects
 
-https://github.com/stars/jmarkfen/lists/caprock
+https://github.com/Winson404/Barangay-Monitoring-System

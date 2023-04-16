@@ -4,4 +4,4 @@ Google Drive folder(members only): https://drive.google.com/drive/folders/1xYWiG
 
 # Related Studies/Projects
 
-https://github.com/Winson404/Barangay-Monitoring-System
+https://github.com/BSIT-Caprock/Winson404-Barangay-Monitoring-System
